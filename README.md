@@ -4,6 +4,11 @@ I'm an austrian software engineering student attending HTL Spengergasse in Vienn
 
 Currently I work on a diploma project 📘 for the austrian military with Angular, Spring and PostreSQL.
 
+Learning about:
+ - Web Development
+ - Software Architecture
+ - APIs with Spring Boot
+
 ### 📫 How to reach me:
  - [LinkedIn](https://www.linkedin.com/in/andreas-krenn-027615295/)
  - E-Mail
