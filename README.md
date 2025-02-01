@@ -1,12 +1,12 @@
 ## Hi there 👋, I'm Andy
 
-I'm an austrian software engineering student attending HTL Spengergasse in Vienna.
+I'm an austrian software engineer, recently graduated from HTL Spengergasse and serving my military service as a developer.
 
-Currently I work on a diploma project 📘 for the austrian military with Angular, Spring and PostreSQL.
+Currently I work on deploying my diploma project 📘 for the austrian military on their infrastructure.
 
 Learning about:
  - Web Development
- - Software Architecture
+ - Electronics/IoT/Raspy/python
  - APIs with Spring Boot
 
 ### 📫 How to reach me:
